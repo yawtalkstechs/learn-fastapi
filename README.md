@@ -6,4 +6,5 @@ Setting up the application
 - poetry install
 
 Running the Application
+- cd learn_fastapi/chapter1/
 - python main.py
